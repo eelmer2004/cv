@@ -1,0 +1,19 @@
+  body {
+    background-color: #CCEEFF;
+  }
+    h1{
+    color: #008080;
+  }
+  h3{
+    color: #008080;
+  }
+  hr{
+    border-style:none;
+    border-top-style: dotted;
+    border-color: #008080;
+    width:45%;
+    border-width: 5px;
+  }
+.laf {
+  border-radius: 100%;
+  }
